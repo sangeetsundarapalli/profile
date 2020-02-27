@@ -41,11 +41,11 @@ body {
 
 
 /*animation*/
--webkit-animation:move 10s;
-   -moz-animation:move 10s;
-    -ms-animation:move 10s;
-     -o-animation:move 10s;
-        animation:move 10s;
+-webkit-animation:move 13s;
+   -moz-animation:move 13s;
+    -ms-animation:move 13s;
+     -o-animation:move 13s;
+        animation:move 13s;
 /*animation-iteration-count*/
 -webkit-animation-iteration-count:infinite;
    -moz-animation-iteration-count:infinite;
